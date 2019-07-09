@@ -1,0 +1,9 @@
+﻿  Sortings.cpp
+Sortings.cpp(164): warning C4101: 'n': unreferenced local variable
+  Generating code
+  0 of 407 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sortings.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\Sortings\x64\Release\Sortings.exe
+  Sortings.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\Sortings\x64\Release\Sortings.pdb (Full PDB)

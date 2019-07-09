@@ -1,0 +1,4 @@
+﻿  heap.cpp
+c:\users\wtp\desktop\utcn\an 2\semestru 2\fa\heapsort\heapsort\heap.cpp(43): warning C4101: 'n': unreferenced local variable
+  HeapSort.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\HeapSort\x64\Debug\HeapSort.exe
+  HeapSort.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\HeapSort\x64\Debug\HeapSort.pdb (Full PDB)

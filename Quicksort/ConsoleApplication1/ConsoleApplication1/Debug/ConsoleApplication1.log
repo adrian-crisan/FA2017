@@ -1,0 +1,4 @@
+﻿  quick.cpp
+c:\users\wtp\desktop\utcn\an 2\semestru 2\fa\quicksort\consoleapplication1\consoleapplication1\quick.cpp(111): warning C4101: 'n': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\Quicksort\ConsoleApplication1\Debug\Quicksort.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 2\Semestru 2\FA\Quicksort\ConsoleApplication1\Debug\Quicksort.pdb (Full PDB)
